@@ -1,0 +1,15 @@
+package com.dravz.foro_hub.domain.curso;
+
+public enum Categoria {
+    PROGRAMACION,
+    DESARROLLO_WEB,
+    DESARROLLO_MOVIL,
+    BASES_DE_DATOS,
+    CIENCIA_DE_DATOS,
+    INTELIGENCIA_ARTIFICIAL,
+    CIBERSEGURIDAD,
+    REDES,
+    SISTEMAS_OPERATIVOS,
+    NEGOCIOS,
+    HABILIDADES_BLANDAS
+}
